@@ -1,2 +1,4 @@
 this is test file
-thi kjghj
+ HEAD
+this is second line 
+>>>>>>> 2d0587e26830cada556dcfa6a02acfde20edbcf4
